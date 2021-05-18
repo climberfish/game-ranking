@@ -64,7 +64,7 @@ export default defineComponent({
   border-radius: 50%;
 }
 .player-rank > img {
-  margin: -15% -15% -5%;
+  margin: -40px -40px -8px -20px;
 }
 .player-rank > .podium {
   color: #f5892a;
